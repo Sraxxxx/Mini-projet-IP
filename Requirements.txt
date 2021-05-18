@@ -1,0 +1,5 @@
+colorama 
+socket
+requests
+sys
+time
